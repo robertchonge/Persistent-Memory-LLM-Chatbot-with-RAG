@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+pinecone-client
+sentence-transformers
+transformers
+scikit-learn
+python-dotenv
+streamlit
+opentelemetry-api
+opentelemetry-sdk
