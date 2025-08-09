@@ -1,4 +1,4 @@
-Persistent Memory Chatbot 🤖
+ePersistent Memory Chatbot 🤖
 
 A production-ready,LLM-powered chatbot that remembers long-term conversations using RAG (Retrieval-Augmented Generation) and integrates stylish UI,monitoring and scalable memory storage.
 ---
@@ -25,7 +25,7 @@ A production-ready,LLM-powered chatbot that remembers long-term conversations us
 
 🛠️ Tech Stack
 
-Backend: FastAPI, OpenAI API, SentenceTransformers, Pinecone, LangChain (optional)
+Backend: FastAPI, OpenAI API, SentenceTransformers, Pinecone.
 
 Frontend: Streamlit, Custom CSS
 
@@ -33,9 +33,8 @@ Memory: Pinecone Vector Database
 
 Monitoring: OpenTelemetry
 
-LLMs: OpenAI GPT / LLaMA / Mistral
+LLMs: OpenAI GPT
 
-Optional: LangFuse, LangGraph
 
 
 
